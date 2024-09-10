@@ -1,4 +1,5 @@
-This is a uservice project from Turing Research Team.
+This is a elementary uservice project from Turing Research Team.
+This project displays the current price of Tether.
 <img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
 ## Getting Started
 
@@ -19,6 +20,8 @@ You can start editing the page by modifying `components/Pages/index.tsx`. The pa
 <br/>
 <img src="https://github.com/melikajafari79/utether/blob/main/Screenshot%202024-09-01%20020750.png" />
 <br/>
+<br/>
+[https://github.com/ArminKardan/utrial.git](https://github.com/ArminKardan/utrial.git) is the main source of this project
 Best regards.
 <br/>
 
