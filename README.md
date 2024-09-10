@@ -1,4 +1,5 @@
 This is a elementary uservice project from Turing Research Team.
+<br/>
 This project displays the current price of Tether.
 <img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
 ## Getting Started
